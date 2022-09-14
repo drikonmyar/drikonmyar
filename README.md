@@ -1,4 +1,4 @@
-### Hello!! Nabyendu here 👋
+### Hello, Nabyendu here 👋
 
 
 - 🔭 I’m currently working on ... SAP
