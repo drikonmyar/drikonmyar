@@ -1,10 +1,13 @@
-# 🚀 Hi, I'm Nabyendu Ojha 👋
+# 🚀 Hi, I'm Nabyendu Ojha <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Welcome+to+my+GitHub!;I+love+coding!;Let's+connect!)
 
 ### 💻 About Me
-- 🔭 I’m currently working as **Java Developer at Infosys**.
-- 🌱 I’m currently learning **Advanced Spring Boot and React**.
-- 💡 Interested in **DSA, Competitive Programming & Backend Development**.
-- 📫 How to reach me: [nabyenduojha99@gmail.com](mailto:nabyenduojha99@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nabyendu-ojha/)
+- 👨‍💻 **Software Engineer at Infosys**, specialized in Java and backend development.
+- 🚀 Passionate about **Spring Boot, Microservices and Scalable System Design**.
+- 🏆 Active in **Data Structures, Algorithms and Competitive Programming**.
+- 🎯 Currently enhancing my expertise in **Advanced Spring Boot and React**.
+- 📩 Feel free to connect: [nabyenduojha99@gmail.com](mailto:nabyenduojha99@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nabyendu-ojha/)
 
 ---
 
@@ -20,6 +23,7 @@
 
 ### 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=drikonmyar&show_icons=true&theme=tokyonight" width="400px" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=drikonmyar&theme=tokyo-night" width="800px" />
 
 ---
 
@@ -39,4 +43,4 @@
 ---
 
 ### 🔗 Profiles
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/nabyendu-ojha) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/drikonmyar) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/nojha99)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/nabyendu-ojha) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/drikonmyar) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/nojha99)  
