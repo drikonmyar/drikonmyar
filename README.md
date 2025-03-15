@@ -1,6 +1,7 @@
 # 🚀 Hi, I'm Nabyendu Ojha <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Welcome+to+my+GitHub!;I+love+coding!;Let's+connect!)
+
 ### 💻 About Me
 - 👨‍💻 **Software Engineer at Infosys**, specialized in Java and backend development.
 - 🚀 Passionate about **Spring Boot, Microservices and Scalable System Design**.
