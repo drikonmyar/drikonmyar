@@ -22,8 +22,8 @@
 ---
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=drikonmyar&show_icons=true&theme=tokyonight" width="400px" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=drikonmyar&theme=tokyo-night" width="800px" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=drikonmyar&theme=tokyonight&fire=FF5733)](https://git.io/streak-stats)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=drikonmyar&theme=tokyo-night)
 
 ---
 
