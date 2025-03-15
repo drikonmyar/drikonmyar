@@ -9,7 +9,17 @@
 - 🎯 Currently enhancing my expertise in **Advanced Spring Boot and React**.
 - 📩 Feel free to connect: [nabyenduojha99@gmail.com](mailto:nabyenduojha99@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nabyendu-ojha/)
 
-📌 **[Download My CV](https://nojha.in/pdfs/Resume-Nabyendu_Ojha.pdf)**
+<a href="https://nojha.in/pdfs/Resume-Nabyendu_Ojha.pdf">
+    <svg width="250" height="50">
+      <rect x="5" y="5" width="240" height="40" stroke="#00cc66" fill="transparent" stroke-width="3"
+        stroke-dasharray="10 10" stroke-dashoffset="0">
+        <animate attributeName="stroke-dashoffset" from="0" to="20" dur="1s" repeatCount="indefinite" />
+      </rect>
+      <text x="125" y="50%" font-size="16" fill="#00aaff" font-family="Arial" text-anchor="middle" dominant-baseline="middle" font-weight="bold">
+        Download My CV
+      </text>
+    </svg>
+</a>
 
 ---
 
