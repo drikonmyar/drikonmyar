@@ -9,6 +9,8 @@
 - 🎯 Currently enhancing my expertise in **Advanced Spring Boot and React**.
 - 📩 Feel free to connect: [nabyenduojha99@gmail.com](mailto:nabyenduojha99@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nabyendu-ojha/)
 
+📌 **[Download My CV](https://nojha.in/pdfs/Resume-Nabyendu_Ojha.pdf)**
+
 ---
 
 ### 🛠️ Tech Stack
@@ -22,7 +24,7 @@
 ---
 
 ### 📊 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=drikonmyar&theme=tokyonight&fire=FF5733)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=drikonmyar&theme=tokyonight&fire=FF5733)](https://github.com/drikonmyar)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=drikonmyar&theme=tokyo-night)
 
 ---
@@ -43,4 +45,4 @@
 ---
 
 ### 🔗 Profiles
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/nabyendu-ojha) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/drikonmyar) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/nojha99)  
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/nabyendu-ojha) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/drikonmyar) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/nojha99)
