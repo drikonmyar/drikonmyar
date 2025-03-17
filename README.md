@@ -24,7 +24,8 @@
 ---
 
 ### 📊 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=drikonmyar&theme=tokyonight&fire=FF5733)](https://github.com/drikonmyar)
+[//]: # ([![GitHub Streak]&#40;https://github-readme-streak-stats.herokuapp.com/?user=drikonmyar&theme=tokyonight&fire=FF5733&#41;]&#40;https://github.com/drikonmyar/&#41;)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=drikonmyar&show_icons=true&theme=tokyonight)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=drikonmyar&theme=tokyo-night)
 
 ---
