@@ -9,7 +9,7 @@
 - 🎯 Currently enhancing my expertise in **Advanced Spring Boot and React**.
 - 📩 Feel free to connect: [nabyenduojha99@gmail.com](mailto:nabyenduojha99@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nabyendu-ojha/)
 
-📌 **[Download My CV](https://nojha.in/pdfs/Resume-Nabyendu_Ojha.pdf)**
+📌 **[Download My CV](https://nojha.in/pdfs/Resume_NabyenduOjha.pdf)**
 
 ---
 
