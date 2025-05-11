@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Welcome+to+my+GitHub!;I+love+coding!;Let's+connect!)
 
 ### 💻 About Me
-- 👨‍💻 **Software Engineer at Deloitte, Earlier worked at Infosys**, specialized in Java and backend development.
+- 👨‍💻 **Software Engineer at Deloitte, earlier worked at Infosys**, specialized in Java and backend development.
 - 🚀 Passionate about **Spring Boot, Microservices and Scalable System Design**.
 - 🏆 Active in **Data Structures, Algorithms and Competitive Programming**.
 - 🎯 Currently enhancing my expertise in **Advanced Spring Boot and React**.
