@@ -6,7 +6,7 @@
 - 👨‍💻 **Software Engineer at Deloitte, earlier worked at Infosys**, specialized in Java and backend development.
 - 🚀 Passionate about **Spring Boot, Microservices and Scalable System Design**.
 - 🏆 Active in **Data Structures, Algorithms and Competitive Programming**.
-- 🎯 Currently enhancing my expertise in **Advanced Spring Boot and React**.
+- 🎯 Currently enhancing expertise in **Advanced Spring Boot and React**.
 - 📩 Feel free to connect: [nabyenduojha99@gmail.com](mailto:nabyenduojha99@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nabyendu-ojha/)
 
 📌 **[Download My CV](https://nojha.in/pdfs/Resume_NabyenduOjha.pdf)**
